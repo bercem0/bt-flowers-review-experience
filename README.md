@@ -60,7 +60,7 @@ Een centrale hub voor het beheren van producten en het inzien van inkomende klan
 
 **Clone de repository:**  
 ```bash
-git clone https://github.com/jouw-gebruikersnaam/bt-flowers.git
+git clone https://github.com/bercem0/bt-flowers-review-experience.git
 ```
 
 **Database Setup:**  
