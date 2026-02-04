@@ -60,7 +60,7 @@ Een centrale hub voor het beheren van producten en het inzien van inkomende klan
 
 **Clone de repository:**  
 ```bash
-git clone https://www.google.com/search?q=https://github.com/jouw-gebruikersnaam/bt-flowers.git
+git clone https://github.com/jouw-gebruikersnaam/bt-flowers.git
 ```
 
 **Database Setup:**  
@@ -83,5 +83,5 @@ Start je Apache/MySQL server en navigeer naar localhost/bt-flowers.
 
 ---
 
-Ontwikkeld met ❤️ door Bercem Yildirim & Tugche - 2025  
+Ontwikkeld met ❤️ door Bercem Yildirim & Tugche - 2026  
 Software Development | ROC Mondriaan, School voor ICT
