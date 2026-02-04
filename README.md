@@ -60,6 +60,7 @@ Een centrale hub voor het beheren van producten en het inzien van inkomende klan
 
 **Clone de repository:**  
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/jouw-gebruikersnaam/bt-flowers.git
 ```
 
@@ -74,6 +75,22 @@ Start je Apache/MySQL server en navigeer naar localhost/bt-flowers.
 
 ---
 
+=======
+git clone https://www.google.com/search?q=https://github.com/jouw-gebruikersnaam/bt-flowers.git
+```
+
+**Database Setup:**  
+Importeer de bijgevoegde .sql bestanden in phpMyAdmin om de tabellen flowers_db, users_db en contact_form_db aan te maken.
+
+**Configuratie:**  
+Pas de inloggegevens in config.php en user_database.php aan naar jouw lokale serverinstellingen (bijv. XAMPP).
+
+**Run:**  
+Start je Apache/MySQL server en navigeer naar localhost/bt-flowers.
+
+---
+
+>>>>>>> e7b656f (Update README)
 📅 Roadmap (Sprint Status)  
 
 ✅ Sprint 1-2: UI/UX Design, CSS Grid Layouts en Basisstructuur.  
@@ -83,5 +100,9 @@ Start je Apache/MySQL server en navigeer naar localhost/bt-flowers.
 
 ---
 
+<<<<<<< HEAD
 Ontwikkeld met ❤️ door Bercem Yildirim & Tugche - 2026  
+=======
+Ontwikkeld met ❤️ door Bercem Yildirim & Tugche - 2025  
+>>>>>>> e7b656f (Update README)
 Software Development | ROC Mondriaan, School voor ICT
